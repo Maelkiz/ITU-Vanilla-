@@ -24,12 +24,14 @@ Modpacken burde nu være klar inde i Modrinth appen.
 
 ## Allokering af RAM
 
-For at få mest ud af Distant Horizons anbefales det at man allokerer, så meget RAM som muligt til spillet. Hvis du er tvivl om hvor meget du skal allokere, så prøv at start med ca. ~75% af din RAM. Det kan man gøre således:
+For at få mest ud af Distant Horizons anbefales det at man allokerer, så meget RAM som muligt til spillet. Hvis du er tvivl om hvor meget det giver mening at allokere, så prøv at starte med ca. ~75% af din computers RAM. 
 
-- klik på ITU-modpacken inde i Modrinth
-- klik ind på packens indstillinger
-- find indstillingen "Java memory"
-- sæt hak ud for "Override global memory settings"
-- brug slideren eller indtast manuelt hvor meget ram du vil allokere
+Følg instruktionerne herunder:
+
+- Klik på ITU-modpacken inde i Modrinth
+- Klik ind på packens indstillinger
+- Find indstillingen "Java memory"
+- Sæt hak ud for "Override global memory settings"
+- Brug slideren eller indtast manuelt hvor meget ram du vil allokere
 
 Distant Horizons' terrængeneration burde nu være betydeligt hurtigere!
