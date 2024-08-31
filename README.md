@@ -2,7 +2,7 @@
 
 ## Beskrivelse
 
-Dette er ITU-serverens vanilla+ modpack. Den inkludere Distant Horizons, Iris, en masse performance mods, Xaero's minimap, og en masse andre små visuelle client-side features, man kender fra Optifine, som fx kapper, connected textures, entity model features osv.
+Dette er ITU-serverens vanilla+ modpack. Den inkluderer Distant Horizons, Iris, en masse performance mods, Xaero's minimap, og en masse andre små visuelle client-side features, man kender fra Optifine, som fx kapper, connected textures, entity model features osv.
 
 Til dem som ikke kender til de inkluderede mods, så alt I behøver at vide bare at I får nogle små quality of life improvements, og at jeres spil kommer til at køre bedre og se pænere ud. 
 
