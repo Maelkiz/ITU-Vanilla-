@@ -6,7 +6,7 @@ Dette er ITU-serverens vanilla+ modpack. Den inkluderer Distant Horizons, Iris, 
 
 Nogle af dem kender man fra Optifine, som fx kapper, connected textures, entity model features osv. Derudover er der nye og forbedrede lydeffekter, samt en in-game voice chat.
 
-Til dem som ikke kender til de inkluderede mods, så alt I behøver at vide bare at I får nogle små quality of life improvements, og at jeres spil kommer til at køre bedre og se pænere ud. 
+Til dem som ikke kender til de inkluderede mods, så alt I behøver at vide, at I får nogle små quality of life improvements, og at jeres spil kommer til at køre bedre og se pænere ud. 
 
 Hvis man spiller på en low-end PC, kan det dog godt være, at man bliver nødt til at slå Distant Horizons fra og spille uden shaders. Men, gør man det, så burde spillet køre bedre end man er vandt til.
 
